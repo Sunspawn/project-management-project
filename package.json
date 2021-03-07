@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/Sunspawn/project-management-project#readme",
   "dependencies": {
+    "@angular/cli": "^11.2.3",
     "express": "^4.17.1"
   },
   "devDependencies": {
